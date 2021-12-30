@@ -1,5 +1,13 @@
 # @sveltejs/adapter-cloudflare
 
+## 1.0.0-next.5
+
+### Patch Changes
+
+- Overhaul adapter API ([#2931](https://github.com/sveltejs/kit/pull/2931))
+
+* Remove esbuild options ([#2931](https://github.com/sveltejs/kit/pull/2931))
+
 ## 1.0.0-next.4
 
 ### Patch Changes
